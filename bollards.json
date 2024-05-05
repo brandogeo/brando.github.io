@@ -1,36 +1,66 @@
 [
   "",
   "",
-  "Botswana",
+  {
+    "country": "Botswana",
+    "region": "Africa"
+  },
   "",
   "",
   "",
   "",
-  "Ghana",
-  "Kenya",
+  {
+    "country": "Ghana",
+    "region": "Africa"
+  },
+  {
+    "country": "Kenya",
+    "region": "Africa"
+  },
   "",
   "",
   "",
   "",
-  "Senegal",
+  {
+    "country": "Senegal",
+    "region": "Africa"
+  },
   "",
-  "Senegal",
+  {
+    "country": "Senegal",
+    "region": "Africa"
+  },
   "",
   "",
   "",
-  "Bangladesh",
-  "Bangladesh",
+  {
+    "country": "Bangladesh",
+    "region": "Asia"
+  },
+  {
+    "country": "Bangladesh",
+    "region": "Asia"
+  },
   "",
   "",
   "",
   "",
   "",
   "",
-  "Cambodia",
-  "Cambodia",
+  {
+    "country": "Cambodia",
+    "region": "Asia"
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia"
+  },
   "",
   "",
-  "Cambodia",
+  {
+    "country": "Cambodia",
+    "region": "Asia"
+  },
   "",
   "",
   "",
@@ -58,11 +88,17 @@
   "",
   "",
   "",
-  "Malaysia",
+  {
+    "country": "Malaysia",
+    "region": "Asia"
+  },
   "",
   "",
   "",
-  "Mongolia",
+  {
+    "country": "Mongolia",
+    "region": "Asia"
+  },
   "",
   "",
   "",
@@ -120,11 +156,17 @@
   "",
   "",
   "",
-  "France",
+  {
+    "country": "France",
+    "region": "Europe"
+  },
   "",
   "",
   "",
-  "France",
+  {
+    "country": "France",
+    "region": "Europe"
+  },
   "",
   "",
   "",
@@ -141,25 +183,40 @@
   "",
   "",
   "",
-  "Monaco",
+  {
+    "country": "Monaco",
+    "region": "Europe"
+  },
   "",
   "",
   "",
   "",
-  "Netherlands",
+  {
+    "country": "Netherlands",
+    "region": "Europe"
+  },
   "",
   "",
   "",
-  "North Macedonia",
+  {
+    "country": "North Macedonia",
+    "region": "Europe"
+  },
   "",
   "",
-  "Poland",
+  {
+    "country": "Poland",
+    "region": "Europe"
+  },
   "",
   "",
   "",
   "",
   "",
-  "Romania",
+  {
+    "country": "Romania",
+    "region": "Europe"
+  },
   "",
   "",
   "",
@@ -175,14 +232,20 @@
   "",
   "",
   "",
-  "Turkey",
+  {
+    "country": "Turkey",
+    "region": "Asia"
+  },
   "",
   "",
   "",
   "",
   "",
   "",
-  "Canada",
+  {
+    "country": "Canada",
+    "region": "NA"
+  },
   "",
   "",
   "",
@@ -213,30 +276,69 @@
   "",
   "",
   "",
-  "Australia",
-  "Australia",
+  {
+    "country": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "country": "Australia",
+    "region": "Oceania"
+  },
   "",
-  "Australia",
-  "New Zealand",
+  {
+    "country": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "country": "New Zealand",
+    "region": "Oceania"
+  },
   "",
   "",
-  "Ecuador",
-  "Ecuador",
-  "Ecuador",
-  "Ecuador",
-  "Ecuador",
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
   "",
-  "Ecuador",
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
   "",
   "",
   "",
   "",
   "",
-  "Christmas Island",
-  "Christmas Island",
+  {
+    "country": "Christmas Island",
+    "region": "Asia"
+  },
+  {
+    "country": "Christmas Island",
+    "region": "Asia"
+  },
   "",
   "",
-  "South Africa",
+  {
+    "country": "South Africa",
+    "region": "Africa"
+  },
   "",
   "",
   "",
@@ -244,7 +346,10 @@
   "",
   "",
   "",
-  "Albania",
+  {
+    "country": "Albania",
+    "region": "Europe"
+  },
   "",
   "",
   "",
@@ -252,10 +357,16 @@
   "",
   "",
   "",
-  "Kyrgyzstan",
+  {
+    "country": "Kyrgyzstan",
+    "region": "Asia"
+  },
   "",
   "",
-  "England",
+  {
+    "country": "England",
+    "region": "Europe"
+  },
   "",
   "",
   "",
@@ -264,9 +375,15 @@
   "",
   "",
   "",
-  "Croatia",
+  {
+    "country": "Croatia",
+    "region": "Europe"
+  },
   "",
-  "United Kingdom",
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
   "",
   "",
   "",
@@ -282,7 +399,10 @@
   "",
   "",
   "",
-  "Malaysia",
+  {
+    "country": "Malaysia",
+    "region": "Asia"
+  },
   "",
   "",
   "",
@@ -293,8 +413,14 @@
   "",
   "",
   "",
-  "Spain",
-  "Netherlands",
+  {
+    "country": "Spain",
+    "region": "Europe"
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe"
+  },
   "",
   "",
   "",
@@ -305,7 +431,10 @@
   "",
   "",
   "",
-  "Tunisia",
+  {
+    "country": "Tunisia",
+    "region": "Africa"
+  },
   "",
   "",
   "",
@@ -319,7 +448,10 @@
   "",
   "",
   "",
-  "Kenya",
+  {
+    "country": "Kenya",
+    "region": "Africa"
+  },
   "",
   "",
   "",
