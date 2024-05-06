@@ -1,14 +1,32 @@
 [
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Botswana",
     "region": "Africa"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Ghana",
     "region": "Africa"
@@ -17,22 +35,46 @@
     "country": "Kenya",
     "region": "Africa"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Senegal",
     "region": "Africa"
   },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Senegal",
     "region": "Africa"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Bangladesh",
     "region": "Asia"
@@ -41,12 +83,46 @@
     "country": "Bangladesh",
     "region": "Asia"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia"
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia"
+  },
   {
     "country": "Cambodia",
     "region": "Asia"
@@ -55,565 +131,1613 @@
     "country": "Cambodia",
     "region": "Asia"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
   {
-    "country": "Cambodia",
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Japan",
     "region": "Asia"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "Japan",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Jordan",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Malaysia",
     "region": "Asia"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Mongolia",
     "region": "Asia"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
   {
-    "country": "France",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "France",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Monaco",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Netherlands",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "North Macedonia",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Poland",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Romania",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Turkey",
-    "region": "Asia"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Canada",
-    "region": "NA"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Australia",
-    "region": "Oceania"
+    "country": "",
+    "region": ""
   },
   {
-    "country": "Australia",
-    "region": "Oceania"
-  },
-  { "country": "", "region": "" },
-  {
-    "country": "Australia",
-    "region": "Oceania"
+    "country": "",
+    "region": ""
   },
   {
-    "country": "New Zealand",
-    "region": "Oceania"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Ecuador",
-    "region": "SA"
+    "country": "",
+    "region": ""
   },
   {
-    "country": "Ecuador",
-    "region": "SA"
+    "country": "",
+    "region": ""
   },
   {
-    "country": "Ecuador",
-    "region": "SA"
+    "country": "",
+    "region": ""
   },
   {
-    "country": "Ecuador",
-    "region": "SA"
+    "country": "",
+    "region": ""
   },
   {
-    "country": "Ecuador",
-    "region": "SA"
+    "country": "",
+    "region": ""
   },
-  { "country": "", "region": "" },
   {
-    "country": "Ecuador",
-    "region": "SA"
+    "country": "",
+    "region": ""
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
   {
-    "country": "Christmas Island",
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "South Korea",
     "region": "Asia"
   },
   {
-    "country": "Christmas Island",
-    "region": "Asia"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "South Africa",
-    "region": "Africa"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Albania",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Kyrgyzstan",
-    "region": "Asia"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "England",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Croatia",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  {
-    "country": "United Kingdom",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Malaysia",
-    "region": "Asia"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Spain",
-    "region": "Europe"
+    "country": "",
+    "region": ""
   },
   {
-    "country": "Netherlands",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Tunisia",
-    "region": "Africa"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Kenya",
-    "region": "Africa"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Netherlands",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Ukraine",
-    "region": "Europe"
+    "country": "",
+    "region": ""
   },
   {
-    "country": "Ukraine",
-    "region": "Europe"
+    "country": "",
+    "region": ""
   },
-  { "country": "", "region": "" },
   {
-    "country": "Portugal",
-    "region": "Europe"
+    "country": "",
+    "region": ""
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Spain",
-    "region": "Europe"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  {
-    "country": "Bolivia",
-    "region": "SA"
-  },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
   {
     "country": "Cambodia",
     "region": "Asia"
   },
-  { "country": "", "region": "" },
   {
-    "country": "Uganda",
-    "region": "Africa"
+    "country": "",
+    "region": ""
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
   {
-    "country": "Ukraine",
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Belgium",
     "region": "Europe"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "Belgium",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Belgium",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Denmark",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Faroe Islands",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "France",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "France",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Iceland",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Monaco",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "North Macedonia",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Poland",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Romania",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Turkey",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Canada",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Canada",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Canada",
+    "region": "NA"
+  },
+  {
+    "country": "Canada",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Canada",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Australia",
     "region": "Oceania"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Australia",
+    "region": "Oceania"
+  },
   {
     "country": "New Zealand",
     "region": "Oceania"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Peru",
+    "region": "SA"
+  },
+  {
+    "country": "Peru",
+    "region": "SA"
+  },
+  {
+    "country": "Uruguay",
+    "region": "SA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Christmas Island",
+    "region": "Asia"
+  },
+  {
+    "country": "Christmas Island",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "South Africa",
+    "region": "Africa"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Albania",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Kyrgyzstan",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "England",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Croatia",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Malaysia",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Spain",
+    "region": "Europe"
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "New Zealand",
+    "region": "Oceania"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Tunisia",
+    "region": "Africa"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Peru",
+    "region": "SA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Kenya",
+    "region": "Africa"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Belgium",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "South Africa",
+    "region": "Africa"
+  },
+  {
+    "country": "Ukraine",
+    "region": "Europe"
+  },
+  {
+    "country": "Ukraine",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Portugal",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Spain",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Bolivia",
+    "region": "SA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia"
+  },
+  {
+    "country": "Turkey",
+    "region": "Asia"
+  },
+  {
+    "country": "Uganda",
+    "region": "Africa"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Ukraine",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "New Zealand",
+    "region": "Oceania"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Mexico",
     "region": "NA"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Lebanon",
     "region": "Asia"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
   {
-    "country": "Australia",
-    "region": "Oceania"
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
   },
   {
     "country": "Australia",
     "region": "Oceania"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
   {
-    "country": "Poland",
-    "region": "Europe"
+    "country": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
   },
   {
     "country": "Poland",
@@ -623,258 +1747,1033 @@
     "country": "Poland",
     "region": "Europe"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "Poland",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Japan",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "United States",
     "region": "NA"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "United States",
     "region": "NA"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Denmark",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Australia",
     "region": "Oceania"
   },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" },
-  { "country": "", "region": "" }
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Belgium",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Botswana",
+    "region": "Africa"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "country": "Austria",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Bangladesh",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Ecuador",
+    "region": "SA"
+  },
+  {
+    "country": "Bolivia",
+    "region": "SA"
+  },
+  {
+    "country": "Bolivia",
+    "region": "SA"
+  },
+  {
+    "country": "Bolivia",
+    "region": "SA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Philippines",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Japan",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Greenland",
+    "region": "NA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Ireland",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "UAE",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "New Zealand",
+    "region": "Oceania"
+  },
+  {
+    "country": "Poland",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Rwanda",
+    "region": "Africa"
+  },
+  {
+    "country": "Rwanda",
+    "region": "Africa"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Bhutan",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Ghana",
+    "region": "Africa"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Argentina",
+    "region": "SA"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Bangladesh",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Peru",
+    "region": "SA"
+  },
+  {
+    "country": "Ghana",
+    "region": "Africa"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Qatar",
+    "region": "Asia"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Poland",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Iceland",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Scotland",
+    "region": "Europe"
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "",
+    "region": ""
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia"
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe"
+  },
+  "",
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  "",
+  {
+    "country": "Bolivia",
+    "region": "SA"
+  },
+  "",
+  {
+    "country": "Ireland",
+    "region": "Europe"
+  },
+  "",
+  "",
+  {
+    "country": "Italy",
+    "region": "Europe"
+  },
+  "",
+  "",
+  {
+    "country": "Ireland",
+    "region": "Europe"
+  },
+  "",
+  "",
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "Hungary",
+    "region": "Europe"
+  }
 ]
