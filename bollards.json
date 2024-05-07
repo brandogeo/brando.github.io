@@ -4,28 +4,28 @@
     "region": ""
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Botswana",
+    "region": "Africa"
   },
   {
     "country": "Botswana",
     "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Botswana",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Ghana",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Ghana",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Ghana",
+    "region": "Africa"
   },
   {
     "country": "Ghana",
@@ -36,23 +36,15 @@
     "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Lesotho",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Lesotho",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "Senegal",
+    "country": "Lesotho",
     "region": "Africa"
   },
   {
@@ -68,8 +60,16 @@
     "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Senegal",
+    "region": "Africa"
+  },
+  {
+    "country": "Senegal",
+    "region": "Africa"
+  },
+  {
+    "country": "Tunisia",
+    "region": "Africa"
   },
   {
     "country": "Tunisia",
@@ -84,20 +84,12 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
-  },
-  {
     "country": "Bhutan",
     "region": "Asia"
   },
   {
     "country": "Bhutan",
     "region": "Asia"
-  },
-  {
-    "country": "",
-    "region": ""
   },
   {
     "country": "Bhutan",
@@ -108,7 +100,7 @@
     "region": ""
   },
   {
-    "country": "Cambodia",
+    "country": "Bhutan",
     "region": "Asia"
   },
   {
@@ -132,24 +124,32 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Cambodia",
+    "region": "Asia"
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia"
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia"
   },
   {
     "country": "Indonesia",
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Uganda",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Uganda",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Uganda",
+    "region": "Africa"
   },
   {
     "country": "Indonesia",
@@ -188,8 +188,8 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Japan",
+    "region": "Asia"
   },
   {
     "country": "Japan",
@@ -228,12 +228,12 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Kyrgyzstan",
+    "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Malaysia",
+    "region": "Asia"
   },
   {
     "country": "Malaysia",
@@ -244,8 +244,8 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Malaysia",
+    "region": "Asia"
   },
   {
     "country": "Malaysia",
@@ -256,16 +256,16 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Mongolia",
+    "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Philippines",
+    "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Philippines",
+    "region": "Asia"
   },
   {
     "country": "Laos",
@@ -284,8 +284,8 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Philippines",
+    "region": "Asia"
   },
   {
     "country": "Russia",
@@ -340,12 +340,12 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Sri Lanka",
+    "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Sri Lanka",
+    "region": "Asia"
   },
   {
     "country": "Russia",
@@ -368,8 +368,8 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Thailand",
+    "region": "Asia"
   },
   {
     "country": "Thailand",
@@ -400,16 +400,16 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Andorra",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Andorra",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Andorra",
+    "region": "Europe"
   },
   {
     "country": "Austria",
@@ -496,8 +496,8 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "France",
+    "region": "Europe"
   },
   {
     "country": "France",
@@ -624,10 +624,6 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
-  },
-  {
     "country": "Portugal",
     "region": "Europe"
   },
@@ -636,16 +632,20 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Portugal",
+    "region": "Europe"
   },
   {
     "country": "Romania",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Romania",
+    "region": "Europe"
+  },
+  {
+    "country": "Romania",
+    "region": "Europe"
   },
   {
     "country": "San Marino",
@@ -780,8 +780,8 @@
     "region": "NA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Greenland",
+    "region": "NA"
   },
   {
     "country": "Mexico",
@@ -880,8 +880,8 @@
     "region": "SA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Colombia",
+    "region": "SA"
   },
   {
     "country": "Ecuador",
@@ -928,8 +928,8 @@
     "region": "SA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Uruguay",
+    "region": "SA"
   },
   {
     "country": "Christmas Island",
@@ -952,16 +952,16 @@
     "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Lesotho",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Lesotho",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Eswatini",
+    "region": "Africa"
   },
   {
     "country": "New Zealand",
@@ -976,8 +976,8 @@
     "region": "SA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Spain",
+    "region": "Europe"
   },
   {
     "country": "Albania",
@@ -988,16 +988,16 @@
     "region": ""
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Turkey",
+    "region": "Asia"
   },
   {
     "country": "United States",
     "region": "NA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Peru",
+    "region": "SA"
   },
   {
     "country": "Canada",
@@ -1020,20 +1020,20 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Spain",
+    "region": "Europe"
   },
   {
     "country": "England",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "United Kingdom",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Luxembourg",
+    "region": "Europe"
   },
   {
     "country": "Canada",
@@ -1052,8 +1052,8 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Spain",
+    "region": "Europe"
   },
   {
     "country": "Brazil",
@@ -1072,36 +1072,36 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Spain",
+    "region": "Europe"
   },
   {
     "country": "Lithuania",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Norway",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Finland",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Sweden",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Sweden",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "South Africa",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Australia",
+    "region": "Oceania"
   },
   {
     "country": "Austria",
@@ -1112,12 +1112,12 @@
     "region": "NA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "United Kingdom",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Italy",
+    "region": "Europe"
   },
   {
     "country": "Sweden",
@@ -1148,16 +1148,16 @@
     "region": "NA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Luxembourg",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Norway",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Norway",
+    "region": "Europe"
   },
   {
     "country": "United States",
@@ -1168,8 +1168,8 @@
     "region": "SA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Japan",
+    "region": "Asia"
   },
   {
     "country": "Australia",
@@ -1184,15 +1184,11 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Spain",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "Sweden",
+    "country": "Slovenia",
     "region": "Europe"
   },
   {
@@ -1200,8 +1196,12 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Sweden",
+    "region": "Europe"
+  },
+  {
+    "country": "Greece",
+    "region": "Europe"
   },
   {
     "country": "New Zealand",
@@ -1212,12 +1212,12 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Japan",
+    "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Estonia",
+    "region": "Europe"
   },
   {
     "country": "Argentina",
@@ -1228,31 +1228,15 @@
     "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "France",
+    "region": "Europe"
   },
   {
     "country": "",
     "region": ""
   },
   {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "Slovenia",
+    "country": "Spain",
     "region": "Europe"
   },
   {
@@ -1262,6 +1246,22 @@
   {
     "country": "",
     "region": ""
+  },
+  {
+    "country": "Madagascar",
+    "region": "Africa"
+  },
+  {
+    "country": "Slovenia",
+    "region": "Europe"
+  },
+  {
+    "country": "Denmark",
+    "region": "Europe"
+  },
+  {
+    "country": "Denmark",
+    "region": "Europe"
   },
   {
     "country": "Hungary",
@@ -1284,8 +1284,8 @@
     "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Bangladesh",
+    "region": "Asia"
   },
   {
     "country": "Cambodia",
@@ -1304,8 +1304,8 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Andorra",
+    "region": "Europe"
   },
   {
     "country": "Luxembourg",
@@ -1456,16 +1456,16 @@
     "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Czechia",
+    "region": "Europe"
   },
   {
     "country": "Canada",
     "region": "NA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
     "country": "Ukraine",
@@ -1488,8 +1488,8 @@
     "region": "NA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Croatia",
+    "region": "Europe"
   },
   {
     "country": "Australia",
@@ -1500,8 +1500,8 @@
     "region": "Oceania"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Australia",
+    "region": "Oceania"
   },
   {
     "country": "Denmark",
@@ -1532,15 +1532,11 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
     "country": "Austria",
+    "region": "Europe"
+  },
+  {
+    "country": "Italy",
     "region": "Europe"
   },
   {
@@ -1552,31 +1548,43 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
+  },
+  {
+    "country": "Austria",
+    "region": "Europe"
   },
   {
     "country": "Slovenia",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Slovenia",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Germany",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
     "country": "New Zealand",
+    "region": "Oceania"
+  },
+  {
+    "country": "Australia",
+    "region": "Oceania"
+  },
+  {
+    "country": "Australia",
     "region": "Oceania"
   },
   {
@@ -1584,24 +1592,16 @@
     "region": ""
   },
   {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
+    "country": "San Marino",
+    "region": "Europe"
   },
   {
     "country": "Austria",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Chile",
+    "region": "SA"
   },
   {
     "country": "Mexico",
@@ -1616,12 +1616,12 @@
     "region": "Oceania"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Slovenia",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Slovenia",
+    "region": "Europe"
   },
   {
     "country": "Italy",
@@ -1672,8 +1672,8 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
     "country": "Liechtenstein",
@@ -1696,24 +1696,24 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "France",
+    "region": "Europe"
   },
   {
     "country": "Monaco",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Spain",
+    "region": "Europe"
   },
   {
     "country": "Austria",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Romania",
+    "region": "Europe"
   },
   {
     "country": "Singapore",
@@ -1760,8 +1760,8 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Greece",
+    "region": "Europe"
   },
   {
     "country": "Japan",
@@ -1940,23 +1940,19 @@
     "region": ""
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Hungary",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Germany",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "Sweden",
+    "country": "Austria",
     "region": "Europe"
   },
   {
@@ -1976,8 +1972,12 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Sweden",
+    "region": "Europe"
+  },
+  {
+    "country": "Portugal",
+    "region": "Europe"
   },
   {
     "country": "United States",
@@ -1988,16 +1988,16 @@
     "region": "NA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "France",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Switzerland",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Croatia",
+    "region": "Europe"
   },
   {
     "country": "Australia",
@@ -2064,8 +2064,8 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Japan",
+    "region": "Asia"
   },
   {
     "country": "Reunion",
@@ -2092,8 +2092,8 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
     "country": "Canada",
@@ -2112,20 +2112,20 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Australia",
+    "region": "Oceania"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Japan",
+    "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Japan",
+    "region": "Asia"
   },
   {
     "country": "",
@@ -2236,8 +2236,8 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Belarus",
+    "region": "Europe"
   },
   {
     "country": "United States",
@@ -2252,8 +2252,8 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Switzerland",
+    "region": "Europe"
   },
   {
     "country": "United States",
@@ -2268,8 +2268,8 @@
     "region": "NA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Japan",
+    "region": "Asia"
   },
   {
     "country": "Austria",
@@ -2292,8 +2292,8 @@
     "region": "SA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Bolivia",
+    "region": "SA"
   },
   {
     "country": "Philippines",
@@ -2324,48 +2324,48 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Netherlands",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Netherlands",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Netherlands",
+    "region": "Europe"
   },
   {
     "country": "Austria",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Netherlands",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Slovakia",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Australia",
+    "region": "Oceania"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Australia",
+    "region": "Oceania"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Switzerland",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Switzerland",
+    "region": "Europe"
   },
   {
     "country": "Slovakia",
@@ -2380,36 +2380,36 @@
     "region": ""
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "United Kingdom",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "United Kingdom",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "United Kingdom",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Sweden",
+    "region": "Europe"
   },
   {
     "country": "Ireland",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Germany",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Germany",
+    "region": "Europe"
   },
   {
     "country": "UAE",
@@ -2444,68 +2444,68 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "New Zealand",
+    "region": "Oceania"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "New Zealand",
+    "region": "Oceania"
   },
   {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "Rwanda",
-    "region": "Africa"
+    "country": "Austria",
+    "region": "Europe"
   },
   {
     "country": "Rwanda",
     "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Rwanda",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "France",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Australia",
+    "region": "Oceania"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Norway",
+    "region": "Europe"
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
   },
   {
     "country": "Netherlands",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Italy",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Italy",
+    "region": "Europe"
   },
   {
     "country": "Bhutan",
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Italy",
+    "region": "Europe"
   },
   {
     "country": "Brazil",
     "region": "SA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
     "country": "Spain",
@@ -2520,12 +2520,24 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "United States",
+    "region": "NA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "United States",
+    "region": "NA"
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe"
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe"
   },
   {
     "country": "",
@@ -2534,18 +2546,6 @@
   {
     "country": "Netherlands",
     "region": "Europe"
-  },
-  {
-    "country": "Netherlands",
-    "region": "Europe"
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
   },
   {
     "country": "Ghana",
@@ -2556,16 +2556,16 @@
     "region": "NA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Lesotho",
+    "region": "Africa"
   },
   {
     "country": "",
     "region": ""
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Japan",
+    "region": "Asia"
   },
   {
     "country": "Argentina",
@@ -2584,48 +2584,48 @@
     "region": "Asia"
   },
   {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
-  },
-  {
-    "country": "",
-    "region": ""
+    "country": "Australia",
+    "region": "Oceania"
   },
   {
     "country": "United Kingdom",
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe"
+  },
+  {
+    "country": "Canada",
+    "region": "NA"
   },
   {
     "country": "Peru",
@@ -2644,12 +2644,12 @@
     "region": "SA"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Japan",
+    "region": "Asia"
   },
   {
     "country": "Qatar",
@@ -2664,12 +2664,12 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Netherlands",
+    "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Netherlands",
+    "region": "Europe"
   },
   {
     "country": "Ecuador",
@@ -2688,12 +2688,12 @@
     "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Kenya",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Finland",
+    "region": "Europe"
   },
   {
     "country": "UAE",
@@ -2724,12 +2724,12 @@
     "region": "Europe"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Senegal",
+    "region": "Africa"
   },
   {
-    "country": "",
-    "region": ""
+    "country": "Austria",
+    "region": "Europe"
   },
   {
     "country": "Cambodia",
@@ -2755,7 +2755,10 @@
     "country": "Bolivia",
     "region": "SA"
   },
-  "",
+  {
+    "country": "",
+    "region": ""
+  },
   {
     "country": "Ireland",
     "region": "Europe"
@@ -2776,7 +2779,10 @@
     "country": "Malaysia",
     "region": "Asia"
   },
-  "",
+  {
+    "country": "Kenya",
+    "region": "Africa"
+  },
   {
     "country": "Ireland",
     "region": "Europe"
@@ -2785,7 +2791,10 @@
     "country": "Malta",
     "region": "Europe"
   },
-  "",
+  {
+    "country": "Kenya",
+    "region": "Africa"
+  },
   {
     "country": "United States",
     "region": "NA"
